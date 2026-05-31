@@ -77,6 +77,7 @@ def main():
     print(ans1[0], ans1[1])
     print(ans2[0], ans2[1])
     print(ans3[0], ans3[1])
+    print( #test
 
 
 if __name__ == "__main__":
