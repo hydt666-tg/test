@@ -71,6 +71,7 @@ def main():
     K=scalar_mul(k, B, a, p)
     print(K[0])
     print(K[1])
+    print("hello world")
 
 
 if __name__ == "__main__":
